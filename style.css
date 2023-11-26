@@ -1,0 +1,19 @@
+body {
+    font-size: 15pt;
+    animation: b 20s infinite linear;
+}
+  @keyframes b {
+  20%{
+    background-color:red;
+  }40%{
+    background-color: orange;
+  }60%{
+    background-color: green;
+  }
+  80%{
+    background-color: blue;
+  }
+  100%{
+    background-color: indigo;
+  }
+  }
